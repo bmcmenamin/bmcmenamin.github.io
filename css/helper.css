@@ -1,0 +1,66 @@
+/**
+ * Icons
+ */
+.icon > svg {
+  display: inline-block;
+  width: 24px;
+  height: 24px;
+  vertical-align: middle; }
+  .icon > svg path {
+    fill: #828282; }
+
+ .social-media-list {
+  list-style-type:none;
+  margin: 0; 
+  padding:0;}
+
+ .social-media-list li {
+    display: inline;
+    padding:4px;
+    font-size:16px;
+}
+
+
+body {
+    -moz-transform: scale(1.1); /* for Firefox, default 1*/
+    zoom:110%; /* For Chrome, IE, default 100%*/
+}
+
+.thumbnail {
+  margin: 20px;
+  display: block;
+  padding: 4px;
+  line-height: 1.428571429;
+  background-color: #ffffff;
+  border: 1px solid #dddddd;
+  border-radius: 0px;
+  -webkit-transition: all 0.2s ease-in-out;
+  -o-transition: all 0.2s ease-in-out;
+  transition: all 0.2s ease-in-out;
+}
+
+.tile {
+  display: block;
+  cursor: pointer;
+  -webkit-perspective: 0;
+  -webkit-transform-style: preserve-3d;
+  -webkit-transition: -webkit-transform 0.2s;
+  float: left;
+  min-width: 75px;
+  min-height: 75px;
+  text-align: center;
+  opacity: 0.75;
+  background-color: #2e8bcc;
+  z-index: 1;
+  border: 4px #ffffff solid;
+  color: #ffffff;
+}
+
+.tile.tile-medium {
+  height: 150px;
+  width: 150px;
+}
+
+.tile.tile-purple {
+  background-color: rgb(56,180,74);
+}
