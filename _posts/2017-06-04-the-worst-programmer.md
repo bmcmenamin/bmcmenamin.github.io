@@ -4,6 +4,6 @@ title: "The worst programmer you've every met is you from sixth months ago"
 author: "Brenton McMenamin"
 ---
 
-Well, most of my commits are from over sixth months ago. So... my repo looks like garbage.
+... and most of my repos haven't been touched in over sixth months.
 
-This blog is my attempt to create a public platform that will shame me into cleaning up my old repos and bring some closure to various side projects by writing up some summaries.
+I dread looking through all these old side-projects I've put together, but this blog is an attempt to create a public platform that will shame me into cleaning them up and bringing  closure to various side projects by writing up some summaries.
