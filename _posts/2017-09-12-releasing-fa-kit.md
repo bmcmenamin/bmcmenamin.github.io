@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Launching the Factor Analysis Kit (fa_kit)"
+title: "Launching the Factor Analysis Kit (fa-kit)"
 author: "Brenton McMenamin"
 ---
 
@@ -9,6 +9,6 @@ Back in the day when I first used [Factor analysis](https://en.wikipedia.org/wik
 
 I've had to frequently re-write the same set of tools because factor analysis isn't sexxxy enough to get included in major python packages. Scikit-learn has a bunch of good tools for matrix decomposition -- and there is one named (FactorAnalysis)[http://scikit-learn.org/stable/modules/generated/sklearn.decomposition.FactorAnalysis.html#sklearn.decomposition.FactorAnalysis]! Unfortunately, it doesn't perform any matrix rotations so I still have to google stackoverflow to figure out that part.
 
-So I sat down and organized all my scattered pieces of factor analysis code into the (Factor Analysis Kit (FA Kit))[https://github.com/bmcmenamin/fa_kit] and decided to share it. It works with python 2 and 3 and is installable as `pip install fa-kit`. There are even (Jupyter notebooks)[https://github.com/bmcmenamin/fa_kit/tree/master/examples] that walk you through how to use it so I don't need to write a ton of documentation here.
+So I sat down and organized all my scattered pieces of factor analysis code into the (Factor Analysis Kit (FA-Kit))[https://github.com/bmcmenamin/fa_kit] and decided to share it. It works with python 2 and 3 and is installable as `pip install fa-kit`. There are even (Jupyter notebooks)[https://github.com/bmcmenamin/fa_kit/tree/master/examples] that walk you through how to use it so I don't need to write a ton of documentation here.
 
 Have fun.
