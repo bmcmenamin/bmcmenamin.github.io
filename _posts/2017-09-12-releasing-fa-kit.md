@@ -11,4 +11,4 @@ I've had to frequently re-write the same set of tools because factor analysis is
 
 So I sat down and organized all my scattered pieces of factor analysis code into the (Factor Analysis Kit (FA-Kit))[https://github.com/bmcmenamin/fa_kit] and decided to share it. It works with python 2 and 3 and is installable as `pip install fa-kit`. There are even (Jupyter notebooks)[https://github.com/bmcmenamin/fa_kit/tree/master/examples] that walk you through how to use it so I don't need to write a ton of documentation here.
 
-Have fun.
+Have fun, and remember -- if you're having trouble making sense of your multivariate dataset, just say "fa-kit".
