@@ -20,4 +20,6 @@ linkedin: https://www.linkedin.com/in/bmcdata
 markdown: kramdown
 
 # Gems
-gems: [jekyll-paginate]
+plugins:
+  - jekyll-paginate
+  - jekyll-seo-tag
