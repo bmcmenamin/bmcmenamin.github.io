@@ -3,8 +3,8 @@ layout: page
 title: About 
 ---
 
-My name is Brenton and I'm a data person.
+My name is Brenton and I'm a data person in NYC.
 
-This blog is going to chronicle me revisting old side projects and cleaning them up and summarizing what I did.
+The name of this blog comes from lyrics to the [1997 MTV Music video of the year](https://www.youtube.com/watch?v=Et9b7LWfnxQ&feature=youtu.be&t=1m3s).
 
-The code for this site is based on the Github Page made by dkmehrmann <a href="https://github.com/dkmehrmann/dkmehrmann.github.io">here</a>.
+The main purpose of this blog is to force me to clean up my git repos and official 'end' various side projects that I start.

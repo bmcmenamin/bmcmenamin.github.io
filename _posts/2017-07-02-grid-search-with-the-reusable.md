@@ -57,7 +57,7 @@ The two left panels show are where the 'standard' grid search method was used, a
  
 <img src="/figs/dwork/thresholdOut_classifier_results.png" width="600">
  
-## Conclusions and questions
+### Conclusions and questions
  
 The main conclusion is that `thresholdOut` works in a conventional supervised learning pipeline where you need to optimize parameters over a grid-search. However, I still have some lingering questions that I'll need to resolve before I put something like this into my standard bag of tricks. For example:
   

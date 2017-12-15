@@ -1,0 +1,22 @@
+body {
+    background: #dae6f0;
+    color: #000000;
+    font-family: Garamond, Baskerville, "Baskerville Old Face", "Hoefler Text", "Times New Roman", serif;
+}
+
+h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
+    font-family: Garamond, Baskerville, "Baskerville Old Face", "Hoefler Text", "Times New Roman", serif;
+}
+
+a {
+    color: #2a4e6c;
+}
+
+a:hover {
+    color: #6a9bc3;
+    text-decoration: none;
+}
+
+.text-warning {
+    color: #6a9bc3;
+}

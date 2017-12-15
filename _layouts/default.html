@@ -1,25 +1,26 @@
 <!DOCTYPE html>
 <html>
-  {% include head.html %}
-  {% seo %}
+
+  <head>
+    {% include head.html %}
+  </head>
 
   <body>
-
     <div class="container">
-    
-       {% include header.html %}
-        
-        <div id="content">
-          {{ content }}
-        </div>
-        
-        {% include footer.html %}
-      
-    </div> <!-- /container -->
 
-    <script src="//code.jquery.com/jquery.js"></script>
-    <script src="{{ '/css/bootstrap.min.js' | prepend: site.baseurl }}"></script>
-    <script src="{{ '/css/toc.js' | prepend: site.baseurl }}"></script>
-    
+      <div id="page-header">
+        {% include header.html %}
+      </div>
+
+      <div id="content">
+        {{ content }}
+      </div>
+
+      <div id="footer">
+        {% include footer.html %}
+      </div>
+
+    </div> <!-- /container -->    
   </body>
+
 </html>

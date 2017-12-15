@@ -4,12 +4,12 @@ layout: default
 
 {% for post in site.posts %}
 <ul style="padding-left:0px;">
-      <h4>
+      <h3>
         <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-      </h4>
+      </h3>
       
       <span class="text-warning">{{ post.date | date: "%b %-d, %Y" }}</span>
-      <p>{{ post.content | strip_html | truncatewords:15}}</p>
-      <a href="{{ post.url | prepend: site.baseurl }}">Read more...</a><br>
+      <p>{{ post.content | strip_html | truncatewords:128}}</p>
+      <a href="{{ post.url | prepend: site.baseurl }}">Read more...</a><br><br>
 </ul>
 {% endfor %}
