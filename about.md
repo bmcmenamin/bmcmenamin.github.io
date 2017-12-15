@@ -1,6 +1,5 @@
 ---
 layout: page
-title: About 
 ---
 
 My name is Brenton and I'm a data person in NYC. I'm pretty terrible at front-end development, so I apologize for the grossness of this site.
