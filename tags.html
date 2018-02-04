@@ -9,9 +9,8 @@ title: Content Tags
 {% for tag in site.tags reversed %}
   <div class="archive-group">
     {% capture tag_name %}{{ tag | first }}{% endcapture %}
+    <a name="{{ tag_name | slugize }}"></a>
     <div id="#{{ tag_name | slugize }}"></div>
-    <p></p>
-    
     <h3 class="category-head">{{ tag_name | capitalize }}</h3>
     <ul>{% for post in site.tags[tag_name] %}
       <li><a href="{{ site.baseurl }}{{ post.url }}">{{post.title}}</a></li>
