@@ -2,6 +2,7 @@
 layout: post
 title: "Launching the Factor Analysis Kit (fa-kit)"
 author: "Brenton McMenamin"
+tags: [fa-kit, releases]
 ---
 
 Back in the day when I first used [Factor analysis](https://en.wikipedia.org/wiki/Factor_analysis) to explore multivariate datasets, it was already considered ancient (and that was nearly fifteen years ago...). Regardless, it's been an indispensable part of my workflow for a 

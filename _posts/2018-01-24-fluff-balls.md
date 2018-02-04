@@ -2,6 +2,7 @@
 layout: post
 title: "Musings on high-dimensional fluff-balls"
 author: "Brenton McMenamin"
+tags: [math]
 ---
 
 I read [this blog post](http://www.inference.vc/high-dimensional-gaussian-distributions-are-soap-bubble/) about normal distributions before the holidays, and it's been stuck in my head ever since.

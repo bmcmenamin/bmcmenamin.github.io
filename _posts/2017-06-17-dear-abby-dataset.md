@@ -2,6 +2,7 @@
 layout: post
 title: "'Dear Abby' for data science"
 author: "Brenton McMenamin"
+tags: [releases]
 ---
 
 I've always liked advice columns because I'm jealous that there's some individual whose entire job description is "be opinionated about other people's problems".

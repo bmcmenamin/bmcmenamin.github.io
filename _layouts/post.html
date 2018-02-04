@@ -5,7 +5,19 @@ layout: default
 <h2> {{ page.title }} </h2>
 
 <p class="text-warning">
-    {{ page.date | date: "%b %-d, %Y" }} • {{ page.author }}
+  {{ page.date | date: "%b %-d, %Y" }} • {{ page.author }}
+
+  {% if post %}
+    {% assign tags = post.tags %}
+  {% else %}
+    {% assign tags = page.tags %}
+  {% endif %}
+
+  {% for tag in tags %}
+    {% if forloop.first %} • [ {% endif %}
+    <a href="{{site.baseurl}}/tags/#{{tag | slugize}}">{{tag | capitalize}}</a>
+    {% if forloop.last %} ] {% else %} , {% endif %}
+  {% endfor %}
 </p>
 
 {{ content }}

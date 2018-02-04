@@ -2,6 +2,7 @@
 layout: post
 title: "Adding Siamese Networks for learning embeddings to the ModelWrangler"
 author: "Brenton McMenamin"
+tags: [model-wrangler, releases]
 ---
 
 
