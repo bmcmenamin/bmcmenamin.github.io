@@ -2,7 +2,7 @@
 layout: post
 title: "Grid search with the 'Reusable holdout'"
 author: "Brenton McMenamin"
-tags: [math]
+tags: [math&data]
 ---
  
 One of the cardinal rules of data-science/machine-learning is to use separate datasets for testing and training your models. This is because models will _overfit_ the data they are trained on, so if you test a model using the data that went into it's own training the performance will be grossly inflated and you'll think you're doing much better than you actually are.

@@ -2,7 +2,7 @@
 layout: post
 title: "The Bag of Embeddings"
 author: "Brenton McMenamin"
-tags: [math]
+tags: [math&data]
 ---
 
 Word2vec is great. If you're the kind of person to be reading a post here, you've probably already seen demos showing how the word embeddings created by word2vec preserve semantic relationships between words. But if you haven't, here's what you need to know about word2vec for now: Word2vec is an unsupervised method that uses a large text corpus to calculate "word embeddings". These embeddings take a word and map it to a high-dimensional numerical vector, such that words with similar semantic meanings are mapped to vectors that are close together.
