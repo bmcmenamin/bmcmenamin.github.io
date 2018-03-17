@@ -2,7 +2,7 @@
 layout: post
 title: "Scripts for building Tensorflow on Google Cloud"
 author: "Brenton McMenamin"
-tags: [math&data]
+tags: [math&data, releases]
 ---
 
 I've been using the Google Cloud Platform to do my deep-learning side projects. However, one of the biggests pains is setting up the environment to actually run TensorFlow. It's
