@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Moby Dick 2: The Cetaceans Strike Back"
+title: "[Update] Moby Dick 2"
 author: "Brenton McMenamin"
 tags: [math&data, model-wrangler, moby-dick-2]
 ---
