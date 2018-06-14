@@ -1,5 +1,5 @@
 body {
-    background: rgb(245, 245, 245);
+    background: rgb(255, 255, 255);
     color: rgb(10, 10, 10);
     font-family: 'Nobile', Helvetica, Arial, sans-serif;
     font-size: 13px;
@@ -22,5 +22,3 @@ a:hover {
 .text-warning {
     color: rgb(140, 160, 38);
 }
-
-
