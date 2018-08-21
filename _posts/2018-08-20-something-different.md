@@ -11,4 +11,4 @@ This [script](https://github.com/bmcmenamin/sundries/blob/master/gilliam/youtube
     <img alt="And now for something completely different" src="/figs/something_different/mp_intro.gif" width="600px">
 </div>
 
-My only regret is that it is not called by typing as `python -c 'import gilliam;'`
+My only regret is that it is not called by typing as "`python -c 'import gilliam;'`"
