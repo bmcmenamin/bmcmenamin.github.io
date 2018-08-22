@@ -11,4 +11,5 @@ This [script](https://github.com/bmcmenamin/sundries/blob/master/gilliam/youtube
     <img alt="And now for something completely different" src="/figs/something_different/mp_intro.gif" width="600px">
 </div>
 
-My only regret is that it is not called by typing as "`python -c 'import gilliam;'`"
+P.S. My only regret is that it is not called by typing as "`python -c 'import gilliam;'`"
+P.P.S. I like the number of mediums and conversion this image has experience. It started out as paper image cutouts, photographed frame by frame, broadcast as an analog TV signal, recorded on VHS, digitized on YouTube, converted to JPG, render as text in a terminal window, and image cpatured into a GIF.
