@@ -1,0 +1,6 @@
+[submodule "standalones/folsom_foia"]
+	path = standalones/folsom_foia
+	url = git@github.com:bmcmenamin/folsom_foia.git
+[submodule "ext/folsom_foia"]
+	path = ext/folsom_foia
+	url = git@github.com:bmcmenamin/folsom_foia.git
