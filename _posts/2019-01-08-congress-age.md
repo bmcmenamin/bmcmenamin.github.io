@@ -16,7 +16,7 @@ The panels shows the age for each member of the senate (upper panel) or house (l
 
 <br>
 <div align="center">
-    <img alt="The average age of congressional members over time" src="/figs/cong_age_distro/congressional_ages_over_time.png" width="800px">
+    <img alt="The average age of congressional members over time" src="/figs/cong_age_distro/congressional_ages_over_time.png" width="1200px">
 </div>
 <br>
 
