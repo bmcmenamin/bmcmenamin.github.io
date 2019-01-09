@@ -10,8 +10,7 @@ As a companion to my [previous post]({{ site.baseurl }}{% post_url 2017-11-19-ce
 GovTrack has provided a [data.world dataset](https://data.world/govtrack/us-congress-legislators) that contains the term dates for of each senator and house member in US history and birthdays for the vast majority of them.
 With some simple [pandas-munging](https://github.com/bmcmenamin/sundries/blob/master/congress_age_distro/Congress%20Ages.ipynb), I was able to plot the distribution of ages for each chamber of congress.
 
-
-The panels shows the age for each member of the senate (upper panel) or house (lower panel) every year. The solid black line is the median age.
+The panels shows the age for each member of the senate (upper panel) or house (lower panel) every year as dots. The solid black line is the median age, with the 25th/75th percentiles shown below/above it.
 
 
 <br>
