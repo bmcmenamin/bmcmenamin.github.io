@@ -9,7 +9,6 @@
 title: Useless twisting of a new technology
 email: bmcmenamin@gmail.com
 description: This is the site to shame me into cleaning up my repo.
-#paginate: 3
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://bmcmenamin.github.io" # the base hostname & protocol for your site
 twitter_username:
@@ -21,7 +20,6 @@ markdown: kramdown
 
 # Gems
 plugins:
-  - jekyll-paginate
   - jekyll-seo-tag
 
 defaults:

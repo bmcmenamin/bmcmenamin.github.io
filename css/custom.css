@@ -1,5 +1,7 @@
 body {
     background: rgb(255, 255, 255);
+    margin: 0 auto;
+    max-width: 65em;
     color: rgb(10, 10, 10);
     font-family: 'Nobile', Helvetica, Arial, sans-serif;
     font-size: 13px;
